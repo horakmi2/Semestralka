@@ -2,7 +2,6 @@ package cz.cvut.fel.aos.db.entities;
 
 import java.util.Collection;
 import java.util.LinkedList;
-import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  * Class that simulates DB entity.
